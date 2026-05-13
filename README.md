@@ -10,11 +10,11 @@ git clone https://github.com/jubayerhu1/Shipment-Price-Prediction-ML-Project.git
 Step 2. Crate a code environment .
 
 ```
-conda create  --prefix venv pythotn=3.7 -y 
+conda create  shipment venv pythotn=3.11 -y 
 ```
 
 ```
-conda activate venv/
+conda activate shipment
 ```
 
 Step 3. Install the requirements
