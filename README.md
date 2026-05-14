@@ -22,3 +22,7 @@ Step 3. Install the requirements
 ```
 pip install -r requirements.txt
 ```
+
+```
+pip freeze > requirements_dev.txt
+```
