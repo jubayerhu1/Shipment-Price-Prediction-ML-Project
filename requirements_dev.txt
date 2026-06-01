@@ -354,7 +354,7 @@ service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629
 setuptools==80.9.0
 shellingham @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/shellingham_1699238695807/work
 shiboken6==6.9.2
--e git+https://github.com/jubayerhu1/Shipment-Price-Prediction-ML-Project.git@9e1c1c6e09267c38f76b7a076e294a52b95cd4cd#egg=Shipment
+-e git+https://github.com/jubayerhu1/Shipment-Price-Prediction-ML-Project.git@5cc827b99f7083da3d286f2a39caf5b767f797be#egg=Shipment
 sip @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_35c2v0osra/croot/sip_1756223384493/work
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 smart-open @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/smart_open_1699241638232/work

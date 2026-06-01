@@ -16,4 +16,5 @@ dill
 evidently
 catboost
 numpy
+python-dotenv
 -e .
