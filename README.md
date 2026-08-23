@@ -26,3 +26,11 @@ pip install -r requirements.txt
 ```
  pip freeze > requirements.txt
 ```
+
+# Workflow
+1. Constants
+2. Config_entity
+3. artifacts_entity
+4. Components
+5. Pipeline
+6. main.py
